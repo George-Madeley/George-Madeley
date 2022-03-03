@@ -5,17 +5,16 @@
 - 🧑‍💻 I'm employeed at BT as a Software Engineer for my placement year at the University of Bath
 - 👀 I’m interested in Unity game developer and Full-stack web development.
 - 🌱 I’m currently learning Computer Systems Engineering as part of my University course and on the side, I am learning a mixture of Unity game development and front-end engineering.
+- 🥅 My goals for 2022 is to learn more about AI development.
 - 📫 If you would like to reach me, use the following email: <george.madeley@outlook.com>
-
----
 
 ### Connect With Me:
 
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/georgemadeleybathcompsyseng#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/georgemadeleybathcompsyseng#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/outlook-light.svg)](george.madeley@outlook.com#gh-light-mode-only)
-[![website](./img/outlook-dark.svg)](george.madeley@outlook.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](george.madeley@outlook.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](george.madeley@outlook.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCEN60Gb1Xq7Z_tlz2pfQUwA#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCEN60Gb1Xq7Z_tlz2pfQUwA#gh-dark-mode-only)
@@ -42,8 +41,8 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Madeley)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Madeley&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Madeley&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!---
 George-Madeley/George-Madeley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
