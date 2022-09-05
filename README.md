@@ -2,7 +2,7 @@
 
 ## I'm a University Student and Software Engineer
 
-- 🧑‍💻 I'm employeed at BT as a Software Engineer for my placement year at the University of Bath
+- 🧑‍💻 I'm a MEng Computer Systems Engineering student at the University of Bath.
 - 👀 I’m interested in Unity game developer and Full-stack web development.
 - 🌱 I’m currently learning Computer Systems Engineering as part of my University course and on the side, I am learning a mixture of Unity game development and front-end engineering.
 - 🥅 My goals for 2022 is to learn more about AI development.
