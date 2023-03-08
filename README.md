@@ -5,7 +5,7 @@
 - 🧑‍💻 I'm a MEng Computer Systems Engineering student at the University of Bath.
 - 👀 I’m interested in Unity game developer and Full-stack web development.
 - 🌱 I’m currently learning Computer Systems Engineering as part of my University course and on the side, I am learning a mixture of Unity game development and front-end engineering.
-- 🥅 My goals for 2022 is to learn more about AI development.
+- 🥅 My goals for 2023 is to learn more about AI development.
 - 📫 If you would like to reach me, use the following email: <george.madeley@outlook.com>
 
 ### Connect With Me:
