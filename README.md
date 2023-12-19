@@ -10,14 +10,14 @@
 
 ### Connect With Me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/georgemadeleybathcompsyseng#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/georgemadeleybathcompsyseng#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/georgemadeleybathcompsyseng#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/georgemadeleybathcompsyseng#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/globe-light.svg)](george.madeley@outlook.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](george.madeley@outlook.com#gh-dark-mode-only)
+[![Portfolio](./img/globe-light.svg)](https://george-madeley-portfolio.co.uk/#gh-light-mode-only)
+[![Portfolio](./img/globe-dark.svg)](https://george-madeley-portfolio.co.uk/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCEN60Gb1Xq7Z_tlz2pfQUwA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCEN60Gb1Xq7Z_tlz2pfQUwA#gh-dark-mode-only)
+[![YouTube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCEN60Gb1Xq7Z_tlz2pfQUwA#gh-light-mode-only)
+[![YouTube](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCEN60Gb1Xq7Z_tlz2pfQUwA#gh-dark-mode-only)
 
 ### Languages and Tools:
 
