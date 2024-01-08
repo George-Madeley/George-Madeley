@@ -20,7 +20,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=George-Madeley&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Madeley&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact) ![](https://github-readme-streak-stats.herokuapp.com/?user=George-Madeley&theme=synthwave&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=George-Madeley&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=George-Madeley&theme=synthwave&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Madeley&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
